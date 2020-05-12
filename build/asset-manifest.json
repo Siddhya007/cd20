@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Siddhya007/cd20.git/static/css/main.0691fb49.chunk.css",
+    "main.js": "/Siddhya007/cd20.git/static/js/main.460f20e2.chunk.js",
+    "main.js.map": "/Siddhya007/cd20.git/static/js/main.460f20e2.chunk.js.map",
+    "runtime-main.js": "/Siddhya007/cd20.git/static/js/runtime-main.b479b75b.js",
+    "runtime-main.js.map": "/Siddhya007/cd20.git/static/js/runtime-main.b479b75b.js.map",
+    "static/js/2.5d91c36a.chunk.js": "/Siddhya007/cd20.git/static/js/2.5d91c36a.chunk.js",
+    "static/js/2.5d91c36a.chunk.js.map": "/Siddhya007/cd20.git/static/js/2.5d91c36a.chunk.js.map",
+    "index.html": "/Siddhya007/cd20.git/index.html",
+    "precache-manifest.399ebb5b222226dc4b83cc85778c3eea.js": "/Siddhya007/cd20.git/precache-manifest.399ebb5b222226dc4b83cc85778c3eea.js",
+    "service-worker.js": "/Siddhya007/cd20.git/service-worker.js",
+    "static/css/main.0691fb49.chunk.css.map": "/Siddhya007/cd20.git/static/css/main.0691fb49.chunk.css.map",
+    "static/js/2.5d91c36a.chunk.js.LICENSE.txt": "/Siddhya007/cd20.git/static/js/2.5d91c36a.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/Siddhya007/cd20.git/static/media/image.b33d4fb6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b479b75b.js",
+    "static/js/2.5d91c36a.chunk.js",
+    "static/css/main.0691fb49.chunk.css",
+    "static/js/main.460f20e2.chunk.js"
+  ]
+}

@@ -1,0 +1,12 @@
+.formControl {
+    width: 50%;
+    padding-left: 1cm;
+    margin-bottom: 40px !important;
+    margin-top: 50px;
+    background-color: rgb(247, 166, 62);
+    padding: 10px 50px 20px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2) 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: 'Quicksand', sans-serif;
+    font-weight: normal;
+}
